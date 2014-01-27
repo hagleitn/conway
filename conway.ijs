@@ -1,6 +1,6 @@
 require'viewmat' 
 require'gl2'
-coclass 'conway'
+coclass'conway'
 coinsert'jgl2'
 
 NB. arrage original matrix in a 3x3 pattern
