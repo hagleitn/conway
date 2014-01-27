@@ -14,4 +14,4 @@ And to stop:
 
 Here's what you should see:
 
-![Screenshot](https://github.com/hagleitn/ambrose/raw/master/conway.png)
+![Screenshot](https://github.com/hagleitn/conway/blob/master/conway.png)
