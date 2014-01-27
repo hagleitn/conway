@@ -1,6 +1,8 @@
 Conway's Game of Life in J
 ======
 
+(Inspired by: http://www.youtube.com/watch?v=a9xAKttWgP4)
+
 Here's how to start the animation:
 
    * load'conway/conway.ijs'
